@@ -4,3 +4,4 @@ Tutorial told me to write something about myself here, but I have no idea what c
 
 I just trying to learn Git right now.
 I will create new (old) project. I mean, I will upload it to GitHub. So, maybe I will finish it faster. Or rewrite it on Python instead of C++ (QtCreator).
+Also I install GitHub Desctop and teying to findout what is this...
