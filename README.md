@@ -1,3 +1,3 @@
 # helloGitPython
 my first repository
-Tutorial told me to write here something about myself, but I don't give a thing what can I write here. Sorry, kids.
+Tutorial told me to write something about myself here, but I have no idea what can I write. Sorry, kids.
